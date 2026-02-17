@@ -2,10 +2,10 @@
 
 # Systems Engineering — Low-level Infrastructure & Runtime Design
 
-[![OS](https://img.shields.io/badge/OS-Linux-1a1a2e?style=flat-square&logo=linux&logoColor=white)](https://kernel.org)
-[![Lang](https://img.shields.io/badge/Lang-C-1a1a2e?style=flat-square&logo=c&logoColor=white)](#)
-[![Lang](https://img.shields.io/badge/Lang-C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=white)](#)
-[![Focus](https://img.shields.io/badge/Focus-Systems_Engineering-1a1a2e?style=flat-square&logo=gnubash&logoColor=white)](#)
+[![OS](https://img.shields.io/badge/OS-Linux-1a1a2e?style=flat-square&logo=linux&logoColor=green)](https://kernel.org)
+[![Lang](https://img.shields.io/badge/Lang-C-1a1a2e?style=flat-square&logo=c&logoColor=green)](#)
+[![Lang](https://img.shields.io/badge/Lang-C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=green)](#)
+[![Focus](https://img.shields.io/badge/Focus-Systems_Engineering-1a1a2e?style=flat-square&logo=gnubash&logoColor=green)](#)
 
 </div>
 
@@ -46,17 +46,17 @@ This space documents my ongoing work in **systems engineering** and **runtime de
 
 | | Language | Status |
 |---|---|---|
-| ![C](https://img.shields.io/badge/-C-2b2b3d?style=flat-square&logo=c&logoColor=white) | **C** | Primary |
-| ![C++](https://img.shields.io/badge/-C++-2b2b3d?style=flat-square&logo=cplusplus&logoColor=white) | **C++** | Active |
-| ![Rust](https://img.shields.io/badge/-Rust-2b2b3d?style=flat-square&logo=rust&logoColor=white) | **Rust** | Planned |
+| ![C](https://img.shields.io/badge/-C-2b2b3d?style=flat-square&logo=c&logoColor=green) | **C** | Primary |
+| ![C++](https://img.shields.io/badge/-C++-2b2b3d?style=flat-square&logo=cplusplus&logoColor=green) | **C++** | Active |
+| ![Rust](https://img.shields.io/badge/-Rust-2b2b3d?style=flat-square&logo=rust&logoColor=green) | **Rust** | Planned |
 
 ### Environment
 
 | | Tool | |
 |---|---|---|
-| ![Linux](https://img.shields.io/badge/-Linux-2b2b3d?style=flat-square&logo=linux&logoColor=white) | **Linux** | Primary development environment |
-| ![POSIX](https://img.shields.io/badge/-POSIX-2b2b3d?style=flat-square&logo=gnubash&logoColor=white) | **POSIX** | Systems programming |
-| ![GDB](https://img.shields.io/badge/-GDB-2b2b3d?style=flat-square&logo=gnu&logoColor=white) | **gdb / valgrind / strace** | Low-level debugging |
+| ![Linux](https://img.shields.io/badge/-Linux-2b2b3d?style=flat-square&logo=linux&logoColor=green) | **Linux** | Primary development environment |
+| ![POSIX](https://img.shields.io/badge/-POSIX-2b2b3d?style=flat-square&logo=gnubash&logoColor=green) | **POSIX** | Systems programming |
+| ![GDB](https://img.shields.io/badge/-GDB-2b2b3d?style=flat-square&logo=gnu&logoColor=green) | **gdb / valgrind / strace** | Low-level debugging |
 
 ### Concepts
 
